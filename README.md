@@ -27,6 +27,7 @@
 4. 정답을 맞히면 게임 종료, 다시 할지(Y/N) 선택
 - Y 입력 시 새로운 게임 시작
 - N 입력 시 게임 완전 종료
+![FlowChart drawio](https://github.com/user-attachments/assets/f30e847a-fd6e-487c-8b1c-4e0e8c829e95)
 
 
 
