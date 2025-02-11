@@ -8,13 +8,12 @@
 ##
 < 설계 원칙 >
 1. 객체별로 책임을 분리-> 유지보수성 향상
-2. 보기에 명확하고 가독성이 높은 코드
--> computer, player, referee, result, gamemanager로 클래스 구분
-   - Computer → 랜덤 숫자 생성
-   - Player → 사용자 입력 처리
-   - Referee → 결과 판정
-   - Result → 결과 저장 및 출력
-   - GameManager → 게임 진행
+2. 보기에 명확하고 가독성이 높은 코드-> 클래스 구분
+- Computer → 랜덤 숫자 생성
+- Player → 사용자 입력 처리
+- Referee → 결과 판정
+- Result → 결과 저장 및 출력
+- GameManager → 게임 진행
 
 
 ##
